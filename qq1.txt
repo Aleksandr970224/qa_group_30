@@ -5,3 +5,6 @@ ff
 rr
 tt
 ee
+name
+surname
+age
